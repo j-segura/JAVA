@@ -10,22 +10,22 @@ public class RunActivity {
     public static void main(String[] args) {
 
         // Exercise 1
-        BookService bookService = new BookService();
+        /* BookService bookService = new BookService();
         bookService.uploadBook();
-        bookService.showBookInfo();
+        bookService.showBookInfo(); */
         
         // Exercise 2
-        CircleService circleService = new CircleService();
+        /* CircleService circleService = new CircleService();
         circleService.createCircle();
         circleService.calculateCircleArea();
-        circleService.calculateCirclePerimeter();        
+        circleService.calculateCirclePerimeter();   */      
 
         // Exercise 3
-        OperationService operationService = new OperationService();
+        /* OperationService operationService = new OperationService();
         operationService.createOperation();
         operationService.add();
         operationService.subtract();
-        
+         */
 
         // Exercise 4
         RectangleService rectangleService = new RectangleService();
@@ -35,9 +35,9 @@ public class RunActivity {
         rectangleService.showRectangle();
 
         // Exercise 5
-        AccountingService accountingService = new AccountingService();
+        /* AccountingService accountingService = new AccountingService();
         accountingService.createAccount();
-        accountingService.run();
+        accountingService.run(); */
 
     }
 }
