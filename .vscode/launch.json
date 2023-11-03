@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "runSopa",
+            "request": "launch",
+            "mainClass": "EV_3_Ejercicios_POO.SopaDeLetras.runSopa",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "runSopa",
+            "request": "launch",
+            "mainClass": "SopaDeLetras.runSopa",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora.Calculadora",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "run",
+            "request": "launch",
+            "mainClass": "EV_3_Ejercicios_POO.run",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "RunActivity",
+            "request": "launch",
+            "mainClass": "EdwarActivities.RunActivity",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld.HelloWorld",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "MyScanner",
+            "request": "launch",
+            "mainClass": "MyScanner.MyScanner",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "RaicesMain",
+            "request": "launch",
+            "mainClass": "Raices.RaicesMain",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Taller1_Java.Solution.Solution",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "figuras.Main",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "BarbieTheSortingDoctor",
+            "request": "launch",
+            "mainClass": "java_conditionals_workshop.BarbieTheSortingDoctor",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "Hero",
+            "request": "launch",
+            "mainClass": "java_conditionals_workshop.Hero",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "HeroPPTGame",
+            "request": "launch",
+            "mainClass": "java_conditionals_workshop.HeroPPTGame",
+            "projectName": "JAVA_c1397496"
+        },
+        {
+            "type": "java",
+            "name": "RonaldoVsMessi",
+            "request": "launch",
+            "mainClass": "java_conditionals_workshop.RonaldoVsMessi",
+            "projectName": "JAVA_c1397496"
+        }
+    ]
+}
